@@ -1,7 +1,0 @@
-var a = 'hello new file'
-var a = 'hello new file'
-var a = 'hello new file'
-var a = 'hello new file'
-var a = 'hello new file'
-var a = 'hello new file'
-var a = 'hello new file'
